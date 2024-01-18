@@ -19,6 +19,7 @@
 
 require_once(ABSPATH . 'wp-admin/includes/plugin.php');
 require_once(ABSPATH . 'wp-content/plugins/centapp/libraries/centapp-layout.php');
+require_once(ABSPATH . 'wp-content/plugins/centapp/libraries/centapp-shortcode.php');
 
 class centAppController
 {
